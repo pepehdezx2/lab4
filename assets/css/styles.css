@@ -1,0 +1,15 @@
+.done{
+	color: gray;
+	text-decoration: line-through;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.cc{
+	border: 1px #ffff solid;
+	margin: 10px 0px;
+	padding: 10px;
+  	list-style-type: none;
+}
