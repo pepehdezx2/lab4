@@ -5,7 +5,7 @@ $('#add').click(function(event){
 		alert("Sorry, you can't leave a blank space");
 	}
 	else{
-		$('ul').append('<li class="cc"> <p class="bold">' + todoText + '</p> <div> <button class="check"> check </button> <button class ="delete"> delete </button> </div> </li>');
+		$('ul').append('<li class="cc"> <p class="bold">' + todoText + '</p> <div class = "cont"> <button class="check"> check </button> <button class ="delete"> delete </button> </div> </li>');
 	}
 });
 

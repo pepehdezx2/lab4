@@ -7,9 +7,29 @@
 	font-weight: bold;
 }
 
+.cont{
+    margin: 10px;
+}
+
 .cc{
-	border: 1px #ffff solid;
-	margin: 10px 0px;
+	border: 1px black solid;
+	margin: auto;
 	padding: 10px;
   	list-style-type: none;
+  	width:33%;
+}
+
+.ce{
+	margin: auto;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	padding: 35px;
+}
+
+form{
+    text-align: center;
+    padding: 15px;
 }
